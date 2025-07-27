@@ -1,4 +1,4 @@
-# MonoECls: A Monolithic Lightweight LLM is Only All You Need for Chinese Literary Classification
+# MonoECls: A Monolithic Lightweight LLM is All You Need for Vertical Domain Classification
 
 ## Data 
 
