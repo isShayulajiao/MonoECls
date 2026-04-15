@@ -1,4 +1,4 @@
-# MonoECls: A Monolithic Lightweight LLM is All You Need for Vertical Domain Classification
+# MonoECls: A Monolithic Lightweight Domain-Adaptive LLM is All You Need for Text Classification
 
 ## Data 
 
