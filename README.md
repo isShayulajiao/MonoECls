@@ -58,4 +58,17 @@ This project refers to the following open-source projects, and we would like to 
   url={http://arxiv.org/abs/2403.13372}
 }
 ```
+
+- LLMEmbed：https://github.com/ChunLiu-cs/LLMEmbed-ACL2024
+
+```bash 
+@inproceedings{chunliu2024llmembed,
+  title={LLMEmbed: Rethinking Lightweight LLM’s Genuine Function in Text Classification},
+  author={Liu, Chun and Zhang, Hongguang and Zhao, Kainan and Ju, Xinghai and Yang, Lin},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={7994--8004},
+  year={2024}
+}
+```
+
 ---
